@@ -26,6 +26,4 @@ wireframes the html pages are based on (Admin Page v01.png and User Page v01.png
 
 The github link: https://github.com/timotholt/bootstrap
 
-The live page link is at: https://timotholt.github.io/bootstrap/
-
 The current main branch can be download from: https://github.com/timotholt/bootstrap/archive/refs/heads/main.zip
