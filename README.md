@@ -14,13 +14,16 @@ qrcode.svg
 user-128.svg
 README.md
 
-2. Files that are in the repository but not used:
+2. Extra files included:
+
+Wireframes the html pages are based on (Admin Page v01.png and User Page v01.png) are in the images directory also.
+
+3. Files that are in the repository but not used:
 
 index.html was a temporary file we used in class.
 
 user.css and admin.css are included but not used.  Wishful thinking.  Sigh.
 
-wireframes the html pages are based on (Admin Page v01.png and User Page v01.png) are in the images directory also.
 
 ===============================
 
